@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask1-EssentialsOfC#\task1\bin\Debug\net5.0\task1.exe
+C:\CodebitsAcademy\C#  labTask\labTask1-EssentialsOfC#\task1\bin\Debug\net5.0\task1.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask1-EssentialsOfC#\task1\bin\Debug\net5.0\task1.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask1-EssentialsOfC#\task1\bin\Debug\net5.0\task1.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask1-EssentialsOfC#\task1\bin\Debug\net5.0\task1.dll
+C:\CodebitsAcademy\C#  labTask\labTask1-EssentialsOfC#\task1\bin\Debug\net5.0\ref\task1.dll
+C:\CodebitsAcademy\C#  labTask\labTask1-EssentialsOfC#\task1\bin\Debug\net5.0\task1.pdb
+C:\CodebitsAcademy\C#  labTask\labTask1-EssentialsOfC#\task1\obj\Debug\net5.0\task1.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask1-EssentialsOfC#\task1\obj\Debug\net5.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask1-EssentialsOfC#\task1\obj\Debug\net5.0\task1.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask1-EssentialsOfC#\task1\obj\Debug\net5.0\task1.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask1-EssentialsOfC#\task1\obj\Debug\net5.0\task1.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask1-EssentialsOfC#\task1\obj\Debug\net5.0\task1.dll
+C:\CodebitsAcademy\C#  labTask\labTask1-EssentialsOfC#\task1\obj\Debug\net5.0\ref\task1.dll
+C:\CodebitsAcademy\C#  labTask\labTask1-EssentialsOfC#\task1\obj\Debug\net5.0\task1.pdb
+C:\CodebitsAcademy\C#  labTask\labTask1-EssentialsOfC#\task1\obj\Debug\net5.0\task1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask1b-DancingMan\DancingMan\obj\Debug\net5.0\DancingMan.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask1b-DancingMan\DancingMan\obj\Debug\net5.0\DancingMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask1b-DancingMan\DancingMan\obj\Debug\net5.0\DancingMan.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask1b-DancingMan\DancingMan\obj\Debug\net5.0\DancingMan.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask1b-DancingMan\DancingMan\obj\Debug\net5.0\DancingMan.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask1b-DancingMan\DancingMan\bin\Debug\net5.0\DancingMan.exe
+C:\CodebitsAcademy\C#  labTask\labTask1b-DancingMan\DancingMan\bin\Debug\net5.0\DancingMan.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask1b-DancingMan\DancingMan\bin\Debug\net5.0\DancingMan.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask1b-DancingMan\DancingMan\bin\Debug\net5.0\DancingMan.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask1b-DancingMan\DancingMan\bin\Debug\net5.0\DancingMan.dll
+C:\CodebitsAcademy\C#  labTask\labTask1b-DancingMan\DancingMan\bin\Debug\net5.0\ref\DancingMan.dll
+C:\CodebitsAcademy\C#  labTask\labTask1b-DancingMan\DancingMan\bin\Debug\net5.0\DancingMan.pdb
+C:\CodebitsAcademy\C#  labTask\labTask1b-DancingMan\DancingMan\obj\Debug\net5.0\DancingMan.dll
+C:\CodebitsAcademy\C#  labTask\labTask1b-DancingMan\DancingMan\obj\Debug\net5.0\ref\DancingMan.dll
+C:\CodebitsAcademy\C#  labTask\labTask1b-DancingMan\DancingMan\obj\Debug\net5.0\DancingMan.pdb
+C:\CodebitsAcademy\C#  labTask\labTask1b-DancingMan\DancingMan\obj\Debug\net5.0\DancingMan.genruntimeconfig.cache
